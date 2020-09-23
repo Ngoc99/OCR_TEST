@@ -13,4 +13,4 @@ services:
         build: ./front
         container_name: ocr_front
         ports:
-            - 8000:80
+            - 7000:80

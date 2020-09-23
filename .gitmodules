@@ -1,6 +1,6 @@
 [submodule "back/CRAFT"]
 	path = back/app/CRAFT
-	url = git@github.com:clovaai/CRAFT-pytorch.git
+	url = https://github.com/clovaai/CRAFT-pytorch.git
 [submodule "back/imgtxtenh"]
 	path = back/app/imgtxtenh
-	url = git@github.com:mauvilsa/imgtxtenh.git
+	url = https://github.com/mauvilsa/imgtxtenh.git
